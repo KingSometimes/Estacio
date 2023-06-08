@@ -1,0 +1,49 @@
+.body{
+    background-color: rgb(252, 177, 150);
+}
+.nav{
+    background-color:rgb(43, 40, 40);
+    height: 60px;
+}
+
+.nav-link{
+    color:gray;
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: white;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
+.jurema{
+    color: white;
+    font-size: 30px;
+}
+.inicio{
+    position: relative;
+    text-align: center;
+    top: 200px;  
+}
+.inicio h1{
+    font-size: 70px;
+
+}
+.inicio h2{
+    font-size: 60px;
+}
+.inicio h3{
+    font-size: 60px;
+}
+.inicio img{
+    height: 100px;
+}
+.card-deck{
+    padding: 12px;
+}
+.main h1{
+    margin-top: 50px;
+    font-size: 50px;
+}
